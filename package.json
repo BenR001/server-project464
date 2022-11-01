@@ -1,0 +1,24 @@
+{
+  "name": "server-project464",
+  "version": "1.0.0",
+  "description": "This repository is for our server project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenR001/server-project464.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BenR001/server-project464/issues"
+  },
+  "homepage": "https://github.com/BenR001/server-project464#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20",
+    "pg": "^8.8.0"
+  }
+}
